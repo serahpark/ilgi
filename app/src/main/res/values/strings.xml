@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="add_review_header">Add a book review!</string>
+    <string name="post">Post</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="error">error</string>
+    <string name="rating">Rating</string>
+    <string name="review_optional">Review (optional)</string>
+    <string name="error_msg">The title, author, and rating are all required!</string>
+    <string name="posted_review">Posted review!</string>
+    <string name="feed_screen_header">Book ratings!</string>
+    <string name="like">Like</string>
+    <string name="expand_or_close">Expand or close</string>
+    <string name="delete">Delete</string>
+    <string name="ai_summary">"AI summary: "</string>
+    <string name="generating">Generating...</string>
+    <string name="initializing">Initializing...</string>
+    <string name="add">Add</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_ok">Login OK!</string>
+    <string name="registration_ok">Registration OK!</string>
+    <string name="topbar_app_logo">topbar app logo</string>
+    <string name="star">star</string>
+    <string name="app_logo">app logo</string>
+</resources>
